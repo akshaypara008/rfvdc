@@ -1,0 +1,142 @@
+
+
+.button{
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+
+}
+
+
+
+
+.data-alpha{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+        display: inline-block;
+        padding: 15px 25px;
+        cursor: pointer;
+        text-align: center;
+        text-decoration: none;
+        outline: none;
+        border: none;
+        box-shadow: 0 9px #999;
+}
+
+.data-alpha:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+.data-alpha:hover{
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: black;
+    color: white;
+  }
+
+.data-num:hover {
+    box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+    background-color: black;
+    color: white;
+    font-weight: bold;
+    
+  }
+
+.data-img{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+.data-num{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    font-size: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-bottom: 15px;
+    margin-top: 15px;
+    margin-left: 15px;
+}
+
+body{
+    width: 100%;
+    background: #a39898;
+    color: black;
+    font-size: 25px;
+    overflow-x: hidden;
+}
+.button{
+    padding-left: 25px;
+    padding-top: 20px;
+    padding-bottom: 50px;
+    width: 100%;
+}
+  
+ 
+.select{
+    background: #00ff2a;
+    color: black;
+}
+.heading{
+    font-size: 60px;
+    width: 500px;
+    border-radius: 15px;
+    color: #ffffff;
+}
+ 
+
+body{
+    width: 100%;
+    font-size: 25px;
+    overflow-x: hidden;
+    background:#a39898;
+}
+
+
+
+.fruit{
+    background: #00ff2a;
+    color: black;
+    width: 100%;
+}
+.vegetable{
+    background: #ffee00;
+    color: black;
+    width: 100%;
+}
+.animal{
+    background:#ff0000 ;
+    color: black;
+    width: 100%;
+}
+.bird{
+    background:#00ffff ;
+    color: black;
+    width: 100%;
+}
+
+.head{
+    width: 100%;
+    height: 200px;
+    background: greenyellow;
+}
+
+.heading1{
+    font-size: 60px;
+    width: 500px;
+    border-radius: 15px;
+    color: #ffffff;
+}
+
